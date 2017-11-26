@@ -7,12 +7,14 @@ import os
 import requests
 import glob
 import json
+import difflib
+import pandas as pd
 
 import api_keys
 
 # Define the data directories.
-audio_dir = 'Audio_recordings/example1'  # TODO
-transcripts_dir = 'Transcripts'  # TODO
+audio_dir = 'Audio_recordings/example1'
+transcripts_dir = 'Transcripts'
 
 # Set up the parameters for the Speech API requests.
 url = 'https://speech.platform.bing.com/speech/recognition/'\
@@ -104,6 +106,20 @@ r = requests.post(url, headers=headers, data=json.dumps(payload))
 
 diagnosis = r.json().get('documents')[0].get('keyPhrases')
 
+df_clusters = pd.read_csv("Diagnoses/df_clusters.csv")
+del df_clusters["Unnamed: 0"]
+
+diagnosis = ["diabetes"]
+
+# Look up the current diagnosis in the list of known diagnoses
+current_diagnoses = [s for s in df_clusters["display"]
+                     for d in diagnosis if d in s]
+# If we can't find an exact match, we look at the closest candidates
+if len(current_diagnoses) == 0:
+    current_diagnoses = difflib.get_close_matches(diagnosis,
+                                                  df_clusters["display"], n=2)
+
 # Write the diagnosis to a file
+print(current_diagnoses)
 with open(os.path.join(transcripts_dir, 'diagnosis_keyphrase.txt'), 'w') as f:
-    f.write(str(diagnosis))
+    f.write(str(current_diagnoses))
