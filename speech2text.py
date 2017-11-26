@@ -120,6 +120,6 @@ if len(current_diagnoses) == 0:
                                                   df_clusters["display"], n=2)
 
 # Write the diagnosis to a file
-print(current_diagnoses.join('\n'))
+print('\n'.join(current_diagnoses))
 with open(os.path.join(transcripts_dir, 'diagnosis_keyphrase.txt'), 'w') as f:
     f.write(str(current_diagnoses))

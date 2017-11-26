@@ -82,6 +82,6 @@ def graph_sugg():
     df_suggestions = pd.merge(df_clusters, df_suggestions, on="code")
 
     # Output our list of suggestions
-    return('suggestions:' + '\n'.join(list(df_suggestions["display"].to_dict().values())[0:10]) + ';')
+    return('\n'.join(list(df_suggestions["display"].to_dict().values())[0:10]) + ';')
 
 # print(graph_sugg())

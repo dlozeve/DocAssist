@@ -17,6 +17,7 @@ class config_path:
         self.transcript_E = os.path.join(self.speech2text_dir, '')
         self.transcript_T = os.path.join(self.speech2text_dir, '')
         self.transcript_D = os.path.join(self.speech2text_dir, 'diagnosis_keyphrase1.txt')
+        self.transcript_D2 = os.path.join(self.speech2text_dir, 'diagnosis_keyphrase.txt')
         self.transcript_P = os.path.join(self.speech2text_dir, '')
         self.transcript_S = os.path.join(self.speech2text_dir, '')
 

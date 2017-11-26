@@ -31,7 +31,7 @@ class SearchES(config_path):
 
         es = Elasticsearch([{'host': self.host, 'port': self.port}])
 
-        D0 = open(self.transcript_D, 'r').read()
+        D0 = open(self.transcript_D2, 'r').read()
         # search_H = open(self.transcript_H, 'r').read()
         # search_E = open(self.transcript_E, 'r').read()
         # search_T = open(self.transcript_T, 'r').read()
@@ -55,13 +55,13 @@ class SearchES(config_path):
         logging.info("Running time: %0.2f seconds" % (time.time() - self.start_time))
 
         if n_hits == 0:
-            return('searchES: no results;')
+            return('no results;')
         else:
             Ll = []
             for j in range(min(n_hits,self.n_results)):
                 Ll.append(str(j) + '. ' + response.hits[j].title + ', ' + response.hits[j].doi )
 
-            return('searchES:' + "\n".join(Ll) + ';')
+            return("\n".join(Ll) + ';')
 
 
 

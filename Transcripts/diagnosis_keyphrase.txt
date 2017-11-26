@@ -1,1 +1,1 @@
-['Prediabetes', 'Diabetic retinopathy associated with type II diabetes mellitus (disorder)', 'Neuropathy due to type 2 diabetes mellitus (disorder)', 'Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder)', 'Microalbuminuria due to type 2 diabetes mellitus (disorder)', 'Proteinuria due to type 2 diabetes mellitus (disorder)', 'Macular edema and retinopathy due to type 2 diabetes mellitus (disorder)', 'Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder)']
+diabetes

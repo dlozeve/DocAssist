@@ -16,9 +16,9 @@ def get_current_goals():
     goals = goals_file[config.patient_id]
 
     if len(goals) == 0:
-        return(('goals: example: Hba1c level < 7;'))
+        return(('example: Hba1c level < 7;'))
     else:
-        return(('goals:' + '\n'.join(goals) + ';'))
+        return(('\n'.join(goals) + ';'))
 
 # print(get_current_goals())
 

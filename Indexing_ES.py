@@ -6,7 +6,7 @@ import time
 import pandas as pd
 from elasticsearch import Elasticsearch
 
-from main.config import config_path
+from config import config_path
 
 
 class IndexES(config_path):
