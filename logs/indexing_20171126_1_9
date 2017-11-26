@@ -1,0 +1,3193 @@
+2017/11/26 01:09:18 DELETE http://localhost:9200/medical_papers [status:200 request:0.296s]
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/0 [status:201 request:0.331s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.642 seconds
+2017/11/26 01:09:18 -- by line: 0.001608 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/1 [status:201 request:0.019s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.661 seconds
+2017/11/26 01:09:18 -- by line: 0.001659 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/2 [status:201 request:0.020s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.681 seconds
+2017/11/26 01:09:18 -- by line: 0.001708 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/3 [status:201 request:0.021s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.704 seconds
+2017/11/26 01:09:18 -- by line: 0.001763 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/4 [status:201 request:0.012s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.716 seconds
+2017/11/26 01:09:18 -- by line: 0.001794 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/5 [status:201 request:0.019s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.737 seconds
+2017/11/26 01:09:18 -- by line: 0.001846 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/6 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.748 seconds
+2017/11/26 01:09:18 -- by line: 0.001874 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/7 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.757 seconds
+2017/11/26 01:09:18 -- by line: 0.001898 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/8 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.767 seconds
+2017/11/26 01:09:18 -- by line: 0.001922 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/9 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.775 seconds
+2017/11/26 01:09:18 -- by line: 0.001942 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/10 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.783 seconds
+2017/11/26 01:09:18 -- by line: 0.001962 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/11 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.792 seconds
+2017/11/26 01:09:18 -- by line: 0.001985 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/12 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.802 seconds
+2017/11/26 01:09:18 -- by line: 0.002009 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/13 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.814 seconds
+2017/11/26 01:09:18 -- by line: 0.002040 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/14 [status:201 request:0.013s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.828 seconds
+2017/11/26 01:09:18 -- by line: 0.002074 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/15 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.839 seconds
+2017/11/26 01:09:18 -- by line: 0.002102 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/16 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.851 seconds
+2017/11/26 01:09:18 -- by line: 0.002133 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/17 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.862 seconds
+2017/11/26 01:09:18 -- by line: 0.002161 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/18 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.870 seconds
+2017/11/26 01:09:18 -- by line: 0.002181 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/19 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.879 seconds
+2017/11/26 01:09:18 -- by line: 0.002202 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/20 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.888 seconds
+2017/11/26 01:09:18 -- by line: 0.002225 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/21 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.899 seconds
+2017/11/26 01:09:18 -- by line: 0.002253 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/22 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.910 seconds
+2017/11/26 01:09:18 -- by line: 0.002281 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/23 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.922 seconds
+2017/11/26 01:09:18 -- by line: 0.002310 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/24 [status:201 request:0.012s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.934 seconds
+2017/11/26 01:09:18 -- by line: 0.002340 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/25 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.947 seconds
+2017/11/26 01:09:18 -- by line: 0.002373 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/26 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.957 seconds
+2017/11/26 01:09:18 -- by line: 0.002398 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/27 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.964 seconds
+2017/11/26 01:09:18 -- by line: 0.002417 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/28 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.973 seconds
+2017/11/26 01:09:18 -- by line: 0.002438 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/29 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.981 seconds
+2017/11/26 01:09:18 -- by line: 0.002458 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/30 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.990 seconds
+2017/11/26 01:09:18 -- by line: 0.002483 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/31 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 0.999 seconds
+2017/11/26 01:09:18 -- by line: 0.002504 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/32 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.010 seconds
+2017/11/26 01:09:18 -- by line: 0.002534 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/33 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.022 seconds
+2017/11/26 01:09:18 -- by line: 0.002561 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/34 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.033 seconds
+2017/11/26 01:09:18 -- by line: 0.002592 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/35 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.044 seconds
+2017/11/26 01:09:18 -- by line: 0.002619 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/36 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.056 seconds
+2017/11/26 01:09:18 -- by line: 0.002646 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/37 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.065 seconds
+2017/11/26 01:09:18 -- by line: 0.002668 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/38 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.073 seconds
+2017/11/26 01:09:18 -- by line: 0.002688 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/39 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.081 seconds
+2017/11/26 01:09:18 -- by line: 0.002709 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/40 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.088 seconds
+2017/11/26 01:09:18 -- by line: 0.002726 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/41 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.097 seconds
+2017/11/26 01:09:18 -- by line: 0.002749 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/42 [status:201 request:0.008s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.107 seconds
+2017/11/26 01:09:18 -- by line: 0.002774 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/43 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.118 seconds
+2017/11/26 01:09:18 -- by line: 0.002802 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/44 [status:201 request:0.012s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.130 seconds
+2017/11/26 01:09:18 -- by line: 0.002832 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/45 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.142 seconds
+2017/11/26 01:09:18 -- by line: 0.002862 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/46 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.151 seconds
+2017/11/26 01:09:18 -- by line: 0.002884 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/47 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.159 seconds
+2017/11/26 01:09:18 -- by line: 0.002906 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/48 [status:201 request:0.007s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.167 seconds
+2017/11/26 01:09:18 -- by line: 0.002925 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/49 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.176 seconds
+2017/11/26 01:09:18 -- by line: 0.002947 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/50 [status:201 request:0.006s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.184 seconds
+2017/11/26 01:09:18 -- by line: 0.002968 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/51 [status:201 request:0.009s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.193 seconds
+2017/11/26 01:09:18 -- by line: 0.002993 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/52 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.205 seconds
+2017/11/26 01:09:18 -- by line: 0.003020 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/53 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.216 seconds
+2017/11/26 01:09:18 -- by line: 0.003048 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/54 [status:201 request:0.011s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.227 seconds
+2017/11/26 01:09:18 -- by line: 0.003076 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/55 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.238 seconds
+2017/11/26 01:09:18 -- by line: 0.003106 seconds
+2017/11/26 01:09:18 PUT http://localhost:9200/medical_papers/ref/56 [status:201 request:0.010s]
+2017/11/26 01:09:18 
+=========================================================================================
+2017/11/26 01:09:18 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:18 Data indexed: full_paper_details.csv
+2017/11/26 01:09:18 n_lines indexed: 399
+2017/11/26 01:09:18 Running time: 1.250 seconds
+2017/11/26 01:09:18 -- by line: 0.003133 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/57 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.257 seconds
+2017/11/26 01:09:19 -- by line: 0.003152 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/58 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.266 seconds
+2017/11/26 01:09:19 -- by line: 0.003174 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/59 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.275 seconds
+2017/11/26 01:09:19 -- by line: 0.003196 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/60 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.283 seconds
+2017/11/26 01:09:19 -- by line: 0.003216 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/61 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.290 seconds
+2017/11/26 01:09:19 -- by line: 0.003234 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/62 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.302 seconds
+2017/11/26 01:09:19 -- by line: 0.003264 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/63 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.313 seconds
+2017/11/26 01:09:19 -- by line: 0.003292 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/64 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.324 seconds
+2017/11/26 01:09:19 -- by line: 0.003319 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/65 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.334 seconds
+2017/11/26 01:09:19 -- by line: 0.003344 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/66 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.345 seconds
+2017/11/26 01:09:19 -- by line: 0.003375 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/67 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.356 seconds
+2017/11/26 01:09:19 -- by line: 0.003399 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/68 [status:201 request:0.015s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.372 seconds
+2017/11/26 01:09:19 -- by line: 0.003437 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/69 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.382 seconds
+2017/11/26 01:09:19 -- by line: 0.003463 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/70 [status:201 request:0.023s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.406 seconds
+2017/11/26 01:09:19 -- by line: 0.003523 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/71 [status:201 request:0.021s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.429 seconds
+2017/11/26 01:09:19 -- by line: 0.003581 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/72 [status:201 request:0.013s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.444 seconds
+2017/11/26 01:09:19 -- by line: 0.003618 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/73 [status:201 request:0.068s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.513 seconds
+2017/11/26 01:09:19 -- by line: 0.003792 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/74 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.524 seconds
+2017/11/26 01:09:19 -- by line: 0.003819 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/75 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.536 seconds
+2017/11/26 01:09:19 -- by line: 0.003850 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/76 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.547 seconds
+2017/11/26 01:09:19 -- by line: 0.003877 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/77 [status:201 request:0.015s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.563 seconds
+2017/11/26 01:09:19 -- by line: 0.003919 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/78 [status:201 request:0.012s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.577 seconds
+2017/11/26 01:09:19 -- by line: 0.003951 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/79 [status:201 request:0.012s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.590 seconds
+2017/11/26 01:09:19 -- by line: 0.003985 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/80 [status:201 request:0.012s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.603 seconds
+2017/11/26 01:09:19 -- by line: 0.004018 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/81 [status:201 request:0.013s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.618 seconds
+2017/11/26 01:09:19 -- by line: 0.004054 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/82 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.630 seconds
+2017/11/26 01:09:19 -- by line: 0.004085 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/83 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.641 seconds
+2017/11/26 01:09:19 -- by line: 0.004112 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/84 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.650 seconds
+2017/11/26 01:09:19 -- by line: 0.004137 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/85 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.663 seconds
+2017/11/26 01:09:19 -- by line: 0.004167 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/86 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.674 seconds
+2017/11/26 01:09:19 -- by line: 0.004195 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/87 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.685 seconds
+2017/11/26 01:09:19 -- by line: 0.004223 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/88 [status:201 request:0.049s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.736 seconds
+2017/11/26 01:09:19 -- by line: 0.004350 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/89 [status:201 request:0.017s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.754 seconds
+2017/11/26 01:09:19 -- by line: 0.004396 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/90 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.767 seconds
+2017/11/26 01:09:19 -- by line: 0.004428 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/91 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.777 seconds
+2017/11/26 01:09:19 -- by line: 0.004453 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/92 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.787 seconds
+2017/11/26 01:09:19 -- by line: 0.004478 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/93 [status:201 request:0.012s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.800 seconds
+2017/11/26 01:09:19 -- by line: 0.004511 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/94 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.811 seconds
+2017/11/26 01:09:19 -- by line: 0.004538 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/95 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.823 seconds
+2017/11/26 01:09:19 -- by line: 0.004568 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/96 [status:201 request:0.015s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.839 seconds
+2017/11/26 01:09:19 -- by line: 0.004609 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/97 [status:201 request:0.013s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.853 seconds
+2017/11/26 01:09:19 -- by line: 0.004644 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/98 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.864 seconds
+2017/11/26 01:09:19 -- by line: 0.004671 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/99 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.873 seconds
+2017/11/26 01:09:19 -- by line: 0.004695 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/100 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.882 seconds
+2017/11/26 01:09:19 -- by line: 0.004718 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/101 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.892 seconds
+2017/11/26 01:09:19 -- by line: 0.004744 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/102 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.905 seconds
+2017/11/26 01:09:19 -- by line: 0.004774 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/103 [status:201 request:0.012s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.917 seconds
+2017/11/26 01:09:19 -- by line: 0.004804 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/104 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.930 seconds
+2017/11/26 01:09:19 -- by line: 0.004837 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/105 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.941 seconds
+2017/11/26 01:09:19 -- by line: 0.004864 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/106 [status:201 request:0.017s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.960 seconds
+2017/11/26 01:09:19 -- by line: 0.004912 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/107 [status:201 request:0.020s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.981 seconds
+2017/11/26 01:09:19 -- by line: 0.004965 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/108 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 1.991 seconds
+2017/11/26 01:09:19 -- by line: 0.004990 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/109 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.002 seconds
+2017/11/26 01:09:19 -- by line: 0.005018 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/110 [status:201 request:0.013s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.016 seconds
+2017/11/26 01:09:19 -- by line: 0.005053 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/111 [status:201 request:0.013s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.030 seconds
+2017/11/26 01:09:19 -- by line: 0.005088 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/112 [status:201 request:0.017s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.048 seconds
+2017/11/26 01:09:19 -- by line: 0.005133 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/113 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.060 seconds
+2017/11/26 01:09:19 -- by line: 0.005163 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/114 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.070 seconds
+2017/11/26 01:09:19 -- by line: 0.005189 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/115 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.079 seconds
+2017/11/26 01:09:19 -- by line: 0.005210 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/116 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.087 seconds
+2017/11/26 01:09:19 -- by line: 0.005231 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/117 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.096 seconds
+2017/11/26 01:09:19 -- by line: 0.005254 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/118 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.105 seconds
+2017/11/26 01:09:19 -- by line: 0.005277 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/119 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.116 seconds
+2017/11/26 01:09:19 -- by line: 0.005304 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/120 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.128 seconds
+2017/11/26 01:09:19 -- by line: 0.005334 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/121 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.140 seconds
+2017/11/26 01:09:19 -- by line: 0.005365 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/122 [status:201 request:0.017s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.158 seconds
+2017/11/26 01:09:19 -- by line: 0.005410 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/123 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.167 seconds
+2017/11/26 01:09:19 -- by line: 0.005430 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/124 [status:201 request:0.009s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.176 seconds
+2017/11/26 01:09:19 -- by line: 0.005452 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/125 [status:201 request:0.007s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.184 seconds
+2017/11/26 01:09:19 -- by line: 0.005474 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/126 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.193 seconds
+2017/11/26 01:09:19 -- by line: 0.005497 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/127 [status:201 request:0.008s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.201 seconds
+2017/11/26 01:09:19 -- by line: 0.005517 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/128 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.212 seconds
+2017/11/26 01:09:19 -- by line: 0.005546 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/129 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.224 seconds
+2017/11/26 01:09:19 -- by line: 0.005573 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/130 [status:201 request:0.010s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.235 seconds
+2017/11/26 01:09:19 -- by line: 0.005601 seconds
+2017/11/26 01:09:19 PUT http://localhost:9200/medical_papers/ref/131 [status:201 request:0.011s]
+2017/11/26 01:09:19 
+=========================================================================================
+2017/11/26 01:09:19 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:19 Data indexed: full_paper_details.csv
+2017/11/26 01:09:19 n_lines indexed: 399
+2017/11/26 01:09:19 Running time: 2.246 seconds
+2017/11/26 01:09:19 -- by line: 0.005631 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/132 [status:201 request:0.010s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.257 seconds
+2017/11/26 01:09:20 -- by line: 0.005656 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/133 [status:201 request:0.010s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.267 seconds
+2017/11/26 01:09:20 -- by line: 0.005684 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/134 [status:201 request:0.007s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.275 seconds
+2017/11/26 01:09:20 -- by line: 0.005703 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/135 [status:201 request:0.007s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.284 seconds
+2017/11/26 01:09:20 -- by line: 0.005724 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/136 [status:201 request:0.009s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.293 seconds
+2017/11/26 01:09:20 -- by line: 0.005747 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/137 [status:201 request:0.195s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.491 seconds
+2017/11/26 01:09:20 -- by line: 0.006245 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/138 [status:201 request:0.020s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.516 seconds
+2017/11/26 01:09:20 -- by line: 0.006305 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/139 [status:201 request:0.019s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.539 seconds
+2017/11/26 01:09:20 -- by line: 0.006366 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/140 [status:201 request:0.017s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.561 seconds
+2017/11/26 01:09:20 -- by line: 0.006418 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/141 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.578 seconds
+2017/11/26 01:09:20 -- by line: 0.006460 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/142 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.591 seconds
+2017/11/26 01:09:20 -- by line: 0.006493 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/143 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.605 seconds
+2017/11/26 01:09:20 -- by line: 0.006528 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/144 [status:201 request:0.065s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.672 seconds
+2017/11/26 01:09:20 -- by line: 0.006697 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/145 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.686 seconds
+2017/11/26 01:09:20 -- by line: 0.006732 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/146 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.700 seconds
+2017/11/26 01:09:20 -- by line: 0.006767 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/147 [status:201 request:0.014s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.716 seconds
+2017/11/26 01:09:20 -- by line: 0.006810 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/148 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.732 seconds
+2017/11/26 01:09:20 -- by line: 0.006850 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/149 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.747 seconds
+2017/11/26 01:09:20 -- by line: 0.006885 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/150 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.762 seconds
+2017/11/26 01:09:20 -- by line: 0.006926 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/151 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.778 seconds
+2017/11/26 01:09:20 -- by line: 0.006962 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/152 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.792 seconds
+2017/11/26 01:09:20 -- by line: 0.006998 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/153 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.808 seconds
+2017/11/26 01:09:20 -- by line: 0.007038 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/154 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.823 seconds
+2017/11/26 01:09:20 -- by line: 0.007075 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/155 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.839 seconds
+2017/11/26 01:09:20 -- by line: 0.007118 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/156 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.857 seconds
+2017/11/26 01:09:20 -- by line: 0.007161 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/157 [status:201 request:0.016s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.875 seconds
+2017/11/26 01:09:20 -- by line: 0.007206 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/158 [status:201 request:0.016s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.893 seconds
+2017/11/26 01:09:20 -- by line: 0.007250 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/159 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.910 seconds
+2017/11/26 01:09:20 -- by line: 0.007294 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/160 [status:201 request:0.014s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.926 seconds
+2017/11/26 01:09:20 -- by line: 0.007334 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/161 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.941 seconds
+2017/11/26 01:09:20 -- by line: 0.007372 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/162 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.955 seconds
+2017/11/26 01:09:20 -- by line: 0.007407 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/163 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.973 seconds
+2017/11/26 01:09:20 -- by line: 0.007452 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/164 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 2.990 seconds
+2017/11/26 01:09:20 -- by line: 0.007495 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/165 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.007 seconds
+2017/11/26 01:09:20 -- by line: 0.007537 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/166 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.026 seconds
+2017/11/26 01:09:20 -- by line: 0.007583 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/167 [status:201 request:0.015s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.043 seconds
+2017/11/26 01:09:20 -- by line: 0.007625 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/168 [status:201 request:0.013s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.056 seconds
+2017/11/26 01:09:20 -- by line: 0.007662 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/169 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.070 seconds
+2017/11/26 01:09:20 -- by line: 0.007693 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/170 [status:201 request:0.009s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.081 seconds
+2017/11/26 01:09:20 -- by line: 0.007721 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/171 [status:201 request:0.009s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.091 seconds
+2017/11/26 01:09:20 -- by line: 0.007748 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/172 [status:201 request:0.023s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.117 seconds
+2017/11/26 01:09:20 -- by line: 0.007811 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/173 [status:201 request:0.009s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.126 seconds
+2017/11/26 01:09:20 -- by line: 0.007834 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/174 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.139 seconds
+2017/11/26 01:09:20 -- by line: 0.007866 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/175 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.151 seconds
+2017/11/26 01:09:20 -- by line: 0.007896 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/176 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.164 seconds
+2017/11/26 01:09:20 -- by line: 0.007929 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/177 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.176 seconds
+2017/11/26 01:09:20 -- by line: 0.007962 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/178 [status:201 request:0.012s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.188 seconds
+2017/11/26 01:09:20 -- by line: 0.007993 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/179 [status:201 request:0.008s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.197 seconds
+2017/11/26 01:09:20 -- by line: 0.008016 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/180 [status:201 request:0.009s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.208 seconds
+2017/11/26 01:09:20 -- by line: 0.008041 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/181 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.220 seconds
+2017/11/26 01:09:20 -- by line: 0.008071 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/182 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.233 seconds
+2017/11/26 01:09:20 -- by line: 0.008104 seconds
+2017/11/26 01:09:20 PUT http://localhost:9200/medical_papers/ref/183 [status:201 request:0.011s]
+2017/11/26 01:09:20 
+=========================================================================================
+2017/11/26 01:09:20 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:20 Data indexed: full_paper_details.csv
+2017/11/26 01:09:20 n_lines indexed: 399
+2017/11/26 01:09:20 Running time: 3.245 seconds
+2017/11/26 01:09:20 -- by line: 0.008134 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/184 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.257 seconds
+2017/11/26 01:09:21 -- by line: 0.008164 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/185 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.271 seconds
+2017/11/26 01:09:21 -- by line: 0.008199 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/186 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.280 seconds
+2017/11/26 01:09:21 -- by line: 0.008221 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/187 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.291 seconds
+2017/11/26 01:09:21 -- by line: 0.008247 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/188 [status:201 request:0.020s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.311 seconds
+2017/11/26 01:09:21 -- by line: 0.008297 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/189 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.321 seconds
+2017/11/26 01:09:21 -- by line: 0.008322 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/190 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.334 seconds
+2017/11/26 01:09:21 -- by line: 0.008355 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/191 [status:201 request:0.020s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.355 seconds
+2017/11/26 01:09:21 -- by line: 0.008408 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/192 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.367 seconds
+2017/11/26 01:09:21 -- by line: 0.008438 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/193 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.379 seconds
+2017/11/26 01:09:21 -- by line: 0.008469 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/194 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.388 seconds
+2017/11/26 01:09:21 -- by line: 0.008491 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/195 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.398 seconds
+2017/11/26 01:09:21 -- by line: 0.008516 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/196 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.407 seconds
+2017/11/26 01:09:21 -- by line: 0.008541 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/197 [status:201 request:0.017s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.426 seconds
+2017/11/26 01:09:21 -- by line: 0.008586 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/198 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.439 seconds
+2017/11/26 01:09:21 -- by line: 0.008619 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/199 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.452 seconds
+2017/11/26 01:09:21 -- by line: 0.008652 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/200 [status:201 request:0.015s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.469 seconds
+2017/11/26 01:09:21 -- by line: 0.008694 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/201 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.482 seconds
+2017/11/26 01:09:21 -- by line: 0.008727 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/202 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.492 seconds
+2017/11/26 01:09:21 -- by line: 0.008752 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/203 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.503 seconds
+2017/11/26 01:09:21 -- by line: 0.008780 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/204 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.513 seconds
+2017/11/26 01:09:21 -- by line: 0.008805 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/205 [status:201 request:0.026s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.539 seconds
+2017/11/26 01:09:21 -- by line: 0.008873 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/206 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.552 seconds
+2017/11/26 01:09:21 -- by line: 0.008903 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/207 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.564 seconds
+2017/11/26 01:09:21 -- by line: 0.008933 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/208 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.577 seconds
+2017/11/26 01:09:21 -- by line: 0.008966 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/209 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.590 seconds
+2017/11/26 01:09:21 -- by line: 0.008998 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/210 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.599 seconds
+2017/11/26 01:09:21 -- by line: 0.009021 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/211 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.607 seconds
+2017/11/26 01:09:21 -- by line: 0.009041 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/212 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.616 seconds
+2017/11/26 01:09:21 -- by line: 0.009064 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/213 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.625 seconds
+2017/11/26 01:09:21 -- by line: 0.009086 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/214 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.634 seconds
+2017/11/26 01:09:21 -- by line: 0.009109 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/215 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.648 seconds
+2017/11/26 01:09:21 -- by line: 0.009142 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/216 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.660 seconds
+2017/11/26 01:09:21 -- by line: 0.009172 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/217 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.670 seconds
+2017/11/26 01:09:21 -- by line: 0.009198 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/218 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.681 seconds
+2017/11/26 01:09:21 -- by line: 0.009226 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/219 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.691 seconds
+2017/11/26 01:09:21 -- by line: 0.009251 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/220 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.703 seconds
+2017/11/26 01:09:21 -- by line: 0.009281 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/221 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.712 seconds
+2017/11/26 01:09:21 -- by line: 0.009304 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/222 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.722 seconds
+2017/11/26 01:09:21 -- by line: 0.009329 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/223 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.733 seconds
+2017/11/26 01:09:21 -- by line: 0.009357 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/224 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.744 seconds
+2017/11/26 01:09:21 -- by line: 0.009384 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/225 [status:201 request:0.020s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.764 seconds
+2017/11/26 01:09:21 -- by line: 0.009437 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/226 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.774 seconds
+2017/11/26 01:09:21 -- by line: 0.009458 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/227 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.785 seconds
+2017/11/26 01:09:21 -- by line: 0.009487 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/228 [status:201 request:0.013s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.800 seconds
+2017/11/26 01:09:21 -- by line: 0.009525 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/229 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.811 seconds
+2017/11/26 01:09:21 -- by line: 0.009550 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/230 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.819 seconds
+2017/11/26 01:09:21 -- by line: 0.009573 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/231 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.828 seconds
+2017/11/26 01:09:21 -- by line: 0.009593 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/232 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.840 seconds
+2017/11/26 01:09:21 -- by line: 0.009623 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/233 [status:201 request:0.022s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.863 seconds
+2017/11/26 01:09:21 -- by line: 0.009681 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/234 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.872 seconds
+2017/11/26 01:09:21 -- by line: 0.009705 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/235 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.881 seconds
+2017/11/26 01:09:21 -- by line: 0.009728 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/236 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.890 seconds
+2017/11/26 01:09:21 -- by line: 0.009749 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/237 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.898 seconds
+2017/11/26 01:09:21 -- by line: 0.009770 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/238 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.907 seconds
+2017/11/26 01:09:21 -- by line: 0.009792 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/239 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.917 seconds
+2017/11/26 01:09:21 -- by line: 0.009817 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/240 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.928 seconds
+2017/11/26 01:09:21 -- by line: 0.009844 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/241 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.939 seconds
+2017/11/26 01:09:21 -- by line: 0.009871 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/242 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.950 seconds
+2017/11/26 01:09:21 -- by line: 0.009899 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/243 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.961 seconds
+2017/11/26 01:09:21 -- by line: 0.009927 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/244 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.972 seconds
+2017/11/26 01:09:21 -- by line: 0.009954 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/245 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.979 seconds
+2017/11/26 01:09:21 -- by line: 0.009974 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/246 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.987 seconds
+2017/11/26 01:09:21 -- by line: 0.009993 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/247 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 3.996 seconds
+2017/11/26 01:09:21 -- by line: 0.010016 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/248 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.004 seconds
+2017/11/26 01:09:21 -- by line: 0.010036 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/249 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.013 seconds
+2017/11/26 01:09:21 -- by line: 0.010059 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/250 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.024 seconds
+2017/11/26 01:09:21 -- by line: 0.010086 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/251 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.037 seconds
+2017/11/26 01:09:21 -- by line: 0.010121 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/252 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.049 seconds
+2017/11/26 01:09:21 -- by line: 0.010149 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/253 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.060 seconds
+2017/11/26 01:09:21 -- by line: 0.010177 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/254 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.073 seconds
+2017/11/26 01:09:21 -- by line: 0.010208 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/255 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.083 seconds
+2017/11/26 01:09:21 -- by line: 0.010233 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/256 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.092 seconds
+2017/11/26 01:09:21 -- by line: 0.010255 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/257 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.100 seconds
+2017/11/26 01:09:21 -- by line: 0.010277 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/258 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.110 seconds
+2017/11/26 01:09:21 -- by line: 0.010300 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/259 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.119 seconds
+2017/11/26 01:09:21 -- by line: 0.010322 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/260 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.131 seconds
+2017/11/26 01:09:21 -- by line: 0.010353 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/261 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.145 seconds
+2017/11/26 01:09:21 -- by line: 0.010388 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/262 [status:201 request:0.012s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.158 seconds
+2017/11/26 01:09:21 -- by line: 0.010420 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/263 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.169 seconds
+2017/11/26 01:09:21 -- by line: 0.010451 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/264 [status:201 request:0.013s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.184 seconds
+2017/11/26 01:09:21 -- by line: 0.010486 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/265 [status:201 request:0.008s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.192 seconds
+2017/11/26 01:09:21 -- by line: 0.010506 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/266 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.203 seconds
+2017/11/26 01:09:21 -- by line: 0.010534 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/267 [status:201 request:0.009s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.212 seconds
+2017/11/26 01:09:21 -- by line: 0.010556 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/268 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.220 seconds
+2017/11/26 01:09:21 -- by line: 0.010576 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/269 [status:201 request:0.007s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.229 seconds
+2017/11/26 01:09:21 -- by line: 0.010599 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/270 [status:201 request:0.011s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.242 seconds
+2017/11/26 01:09:21 -- by line: 0.010632 seconds
+2017/11/26 01:09:21 PUT http://localhost:9200/medical_papers/ref/271 [status:201 request:0.010s]
+2017/11/26 01:09:21 
+=========================================================================================
+2017/11/26 01:09:21 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:21 Data indexed: full_paper_details.csv
+2017/11/26 01:09:21 n_lines indexed: 399
+2017/11/26 01:09:21 Running time: 4.252 seconds
+2017/11/26 01:09:21 -- by line: 0.010657 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/272 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.265 seconds
+2017/11/26 01:09:22 -- by line: 0.010689 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/273 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.278 seconds
+2017/11/26 01:09:22 -- by line: 0.010721 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/274 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.288 seconds
+2017/11/26 01:09:22 -- by line: 0.010749 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/275 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.298 seconds
+2017/11/26 01:09:22 -- by line: 0.010771 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/276 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.306 seconds
+2017/11/26 01:09:22 -- by line: 0.010791 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/277 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.315 seconds
+2017/11/26 01:09:22 -- by line: 0.010814 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/278 [status:201 request:0.006s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.323 seconds
+2017/11/26 01:09:22 -- by line: 0.010834 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/279 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.332 seconds
+2017/11/26 01:09:22 -- by line: 0.010857 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/280 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.342 seconds
+2017/11/26 01:09:22 -- by line: 0.010882 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/281 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.353 seconds
+2017/11/26 01:09:22 -- by line: 0.010909 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/282 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.365 seconds
+2017/11/26 01:09:22 -- by line: 0.010940 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/283 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.377 seconds
+2017/11/26 01:09:22 -- by line: 0.010970 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/284 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.385 seconds
+2017/11/26 01:09:22 -- by line: 0.010990 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/285 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.393 seconds
+2017/11/26 01:09:22 -- by line: 0.011011 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/286 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.400 seconds
+2017/11/26 01:09:22 -- by line: 0.011029 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/287 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.408 seconds
+2017/11/26 01:09:22 -- by line: 0.011049 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/288 [status:201 request:0.018s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.427 seconds
+2017/11/26 01:09:22 -- by line: 0.011097 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/289 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.436 seconds
+2017/11/26 01:09:22 -- by line: 0.011117 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/290 [status:201 request:0.009s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.447 seconds
+2017/11/26 01:09:22 -- by line: 0.011144 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/291 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.459 seconds
+2017/11/26 01:09:22 -- by line: 0.011174 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/292 [status:201 request:0.015s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.475 seconds
+2017/11/26 01:09:22 -- by line: 0.011216 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/293 [status:201 request:0.012s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.488 seconds
+2017/11/26 01:09:22 -- by line: 0.011247 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/294 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.501 seconds
+2017/11/26 01:09:22 -- by line: 0.011280 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/295 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.510 seconds
+2017/11/26 01:09:22 -- by line: 0.011303 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/296 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.519 seconds
+2017/11/26 01:09:22 -- by line: 0.011325 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/297 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.527 seconds
+2017/11/26 01:09:22 -- by line: 0.011345 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/298 [status:201 request:0.007s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.536 seconds
+2017/11/26 01:09:22 -- by line: 0.011368 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/299 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.545 seconds
+2017/11/26 01:09:22 -- by line: 0.011391 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/300 [status:201 request:0.013s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.560 seconds
+2017/11/26 01:09:22 -- by line: 0.011428 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/301 [status:201 request:0.012s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.572 seconds
+2017/11/26 01:09:22 -- by line: 0.011460 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/302 [status:201 request:0.021s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.595 seconds
+2017/11/26 01:09:22 -- by line: 0.011516 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/303 [status:201 request:0.025s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.621 seconds
+2017/11/26 01:09:22 -- by line: 0.011582 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/304 [status:201 request:0.012s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.634 seconds
+2017/11/26 01:09:22 -- by line: 0.011614 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/305 [status:201 request:0.009s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.644 seconds
+2017/11/26 01:09:22 -- by line: 0.011639 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/306 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.657 seconds
+2017/11/26 01:09:22 -- by line: 0.011672 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/307 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.670 seconds
+2017/11/26 01:09:22 -- by line: 0.011705 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/308 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.680 seconds
+2017/11/26 01:09:22 -- by line: 0.011729 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/309 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.692 seconds
+2017/11/26 01:09:22 -- by line: 0.011759 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/310 [status:201 request:0.012s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.704 seconds
+2017/11/26 01:09:22 -- by line: 0.011790 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/311 [status:201 request:0.016s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.722 seconds
+2017/11/26 01:09:22 -- by line: 0.011834 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/312 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.737 seconds
+2017/11/26 01:09:22 -- by line: 0.011872 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/313 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.751 seconds
+2017/11/26 01:09:22 -- by line: 0.011908 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/314 [status:201 request:0.008s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.761 seconds
+2017/11/26 01:09:22 -- by line: 0.011933 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/315 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.773 seconds
+2017/11/26 01:09:22 -- by line: 0.011964 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/316 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.785 seconds
+2017/11/26 01:09:22 -- by line: 0.011994 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/317 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.798 seconds
+2017/11/26 01:09:22 -- by line: 0.012025 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/318 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.810 seconds
+2017/11/26 01:09:22 -- by line: 0.012054 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/319 [status:201 request:0.019s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.830 seconds
+2017/11/26 01:09:22 -- by line: 0.012107 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/320 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.847 seconds
+2017/11/26 01:09:22 -- by line: 0.012148 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/321 [status:201 request:0.018s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.868 seconds
+2017/11/26 01:09:22 -- by line: 0.012200 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/322 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.884 seconds
+2017/11/26 01:09:22 -- by line: 0.012241 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/323 [status:201 request:0.009s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.894 seconds
+2017/11/26 01:09:22 -- by line: 0.012266 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/324 [status:201 request:0.029s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.924 seconds
+2017/11/26 01:09:22 -- by line: 0.012342 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/325 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.937 seconds
+2017/11/26 01:09:22 -- by line: 0.012373 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/326 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.949 seconds
+2017/11/26 01:09:22 -- by line: 0.012406 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/327 [status:201 request:0.009s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.960 seconds
+2017/11/26 01:09:22 -- by line: 0.012432 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/328 [status:201 request:0.016s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.978 seconds
+2017/11/26 01:09:22 -- by line: 0.012475 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/329 [status:201 request:0.016s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 4.995 seconds
+2017/11/26 01:09:22 -- by line: 0.012519 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/330 [status:201 request:0.015s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.012 seconds
+2017/11/26 01:09:22 -- by line: 0.012562 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/331 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.027 seconds
+2017/11/26 01:09:22 -- by line: 0.012599 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/332 [status:201 request:0.016s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.045 seconds
+2017/11/26 01:09:22 -- by line: 0.012645 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/333 [status:201 request:0.021s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.069 seconds
+2017/11/26 01:09:22 -- by line: 0.012704 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/334 [status:201 request:0.009s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.080 seconds
+2017/11/26 01:09:22 -- by line: 0.012733 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/335 [status:201 request:0.015s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.099 seconds
+2017/11/26 01:09:22 -- by line: 0.012780 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/336 [status:201 request:0.016s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.117 seconds
+2017/11/26 01:09:22 -- by line: 0.012824 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/337 [status:201 request:0.016s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.134 seconds
+2017/11/26 01:09:22 -- by line: 0.012867 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/338 [status:201 request:0.018s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.153 seconds
+2017/11/26 01:09:22 -- by line: 0.012917 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/339 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.169 seconds
+2017/11/26 01:09:22 -- by line: 0.012955 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/340 [status:201 request:0.011s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.182 seconds
+2017/11/26 01:09:22 -- by line: 0.012986 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/341 [status:201 request:0.015s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.199 seconds
+2017/11/26 01:09:22 -- by line: 0.013030 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/342 [status:201 request:0.010s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.211 seconds
+2017/11/26 01:09:22 -- by line: 0.013059 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/343 [status:201 request:0.014s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.227 seconds
+2017/11/26 01:09:22 -- by line: 0.013099 seconds
+2017/11/26 01:09:22 PUT http://localhost:9200/medical_papers/ref/344 [status:201 request:0.018s]
+2017/11/26 01:09:22 
+=========================================================================================
+2017/11/26 01:09:22 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:22 Data indexed: full_paper_details.csv
+2017/11/26 01:09:22 n_lines indexed: 399
+2017/11/26 01:09:22 Running time: 5.246 seconds
+2017/11/26 01:09:22 -- by line: 0.013150 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/345 [status:201 request:0.017s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.266 seconds
+2017/11/26 01:09:23 -- by line: 0.013199 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/346 [status:201 request:0.020s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.287 seconds
+2017/11/26 01:09:23 -- by line: 0.013251 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/347 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.296 seconds
+2017/11/26 01:09:23 -- by line: 0.013274 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/348 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.305 seconds
+2017/11/26 01:09:23 -- by line: 0.013295 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/349 [status:201 request:0.009s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.315 seconds
+2017/11/26 01:09:23 -- by line: 0.013322 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/350 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.327 seconds
+2017/11/26 01:09:23 -- by line: 0.013352 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/351 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.339 seconds
+2017/11/26 01:09:23 -- by line: 0.013382 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/352 [status:201 request:0.015s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.356 seconds
+2017/11/26 01:09:23 -- by line: 0.013422 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/353 [status:201 request:0.017s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.374 seconds
+2017/11/26 01:09:23 -- by line: 0.013468 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/354 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.386 seconds
+2017/11/26 01:09:23 -- by line: 0.013498 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/355 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.397 seconds
+2017/11/26 01:09:23 -- by line: 0.013525 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/356 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.406 seconds
+2017/11/26 01:09:23 -- by line: 0.013549 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/357 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.418 seconds
+2017/11/26 01:09:23 -- by line: 0.013578 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/358 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.429 seconds
+2017/11/26 01:09:23 -- by line: 0.013606 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/359 [status:201 request:0.009s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.439 seconds
+2017/11/26 01:09:23 -- by line: 0.013632 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/360 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.450 seconds
+2017/11/26 01:09:23 -- by line: 0.013659 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/361 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.460 seconds
+2017/11/26 01:09:23 -- by line: 0.013685 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/362 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.471 seconds
+2017/11/26 01:09:23 -- by line: 0.013713 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/363 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.481 seconds
+2017/11/26 01:09:23 -- by line: 0.013738 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/364 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.489 seconds
+2017/11/26 01:09:23 -- by line: 0.013758 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/365 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.497 seconds
+2017/11/26 01:09:23 -- by line: 0.013778 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/366 [status:201 request:0.006s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.504 seconds
+2017/11/26 01:09:23 -- by line: 0.013795 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/367 [status:201 request:0.009s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.514 seconds
+2017/11/26 01:09:23 -- by line: 0.013821 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/368 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.522 seconds
+2017/11/26 01:09:23 -- by line: 0.013841 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/369 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.533 seconds
+2017/11/26 01:09:23 -- by line: 0.013868 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/370 [status:201 request:0.015s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.551 seconds
+2017/11/26 01:09:23 -- by line: 0.013911 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/371 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.562 seconds
+2017/11/26 01:09:23 -- by line: 0.013939 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/372 [status:201 request:0.009s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.573 seconds
+2017/11/26 01:09:23 -- by line: 0.013966 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/373 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.584 seconds
+2017/11/26 01:09:23 -- by line: 0.013995 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/374 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.593 seconds
+2017/11/26 01:09:23 -- by line: 0.014017 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/375 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.601 seconds
+2017/11/26 01:09:23 -- by line: 0.014038 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/376 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.610 seconds
+2017/11/26 01:09:23 -- by line: 0.014061 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/377 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.618 seconds
+2017/11/26 01:09:23 -- by line: 0.014081 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/378 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.626 seconds
+2017/11/26 01:09:23 -- by line: 0.014101 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/379 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.635 seconds
+2017/11/26 01:09:23 -- by line: 0.014124 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/380 [status:201 request:0.011s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.646 seconds
+2017/11/26 01:09:23 -- by line: 0.014151 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/381 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.657 seconds
+2017/11/26 01:09:23 -- by line: 0.014179 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/382 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.668 seconds
+2017/11/26 01:09:23 -- by line: 0.014209 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/383 [status:201 request:0.009s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.678 seconds
+2017/11/26 01:09:23 -- by line: 0.014232 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/384 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.686 seconds
+2017/11/26 01:09:23 -- by line: 0.014252 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/385 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.694 seconds
+2017/11/26 01:09:23 -- by line: 0.014273 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/386 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.702 seconds
+2017/11/26 01:09:23 -- by line: 0.014292 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/387 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.711 seconds
+2017/11/26 01:09:23 -- by line: 0.014312 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/388 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.718 seconds
+2017/11/26 01:09:23 -- by line: 0.014330 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/389 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.729 seconds
+2017/11/26 01:09:23 -- by line: 0.014357 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/390 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.741 seconds
+2017/11/26 01:09:23 -- by line: 0.014387 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/391 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.753 seconds
+2017/11/26 01:09:23 -- by line: 0.014418 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/392 [status:201 request:0.010s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.763 seconds
+2017/11/26 01:09:23 -- by line: 0.014443 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/393 [status:201 request:0.009s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.774 seconds
+2017/11/26 01:09:23 -- by line: 0.014470 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/394 [status:201 request:0.008s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.782 seconds
+2017/11/26 01:09:23 -- by line: 0.014490 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/395 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.790 seconds
+2017/11/26 01:09:23 -- by line: 0.014512 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/396 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.797 seconds
+2017/11/26 01:09:23 -- by line: 0.014531 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/397 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.805 seconds
+2017/11/26 01:09:23 -- by line: 0.014550 seconds
+2017/11/26 01:09:23 PUT http://localhost:9200/medical_papers/ref/398 [status:201 request:0.007s]
+2017/11/26 01:09:23 
+=========================================================================================
+2017/11/26 01:09:23 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:09:23 Data indexed: full_paper_details.csv
+2017/11/26 01:09:23 n_lines indexed: 399
+2017/11/26 01:09:23 Running time: 5.812 seconds
+2017/11/26 01:09:23 -- by line: 0.014567 seconds

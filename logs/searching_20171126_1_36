@@ -1,0 +1,12 @@
+2017/11/26 01:36:13 GET http://localhost:9200/medical_papers/_search [status:200 request:0.015s]
+2017/11/26 01:36:13 
+=========================================================================================
+2017/11/26 01:36:13 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:36:13 Nb of hits: 4
+2017/11/26 01:36:13 Running time: 0.02 seconds
+2017/11/26 01:36:31 GET http://localhost:9200/medical_papers/_search [status:200 request:0.014s]
+2017/11/26 01:36:31 
+=========================================================================================
+2017/11/26 01:36:31 host: localhost 	 port: 9200 	 index: medical_papers 	 doc_type: ref
+2017/11/26 01:36:31 Nb of hits: 4
+2017/11/26 01:36:31 Running time: 0.02 seconds
