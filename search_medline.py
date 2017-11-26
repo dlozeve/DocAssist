@@ -15,16 +15,16 @@ class SearchMedline(config_path):
         cleantext = re.sub(cleanr, '', raw_html)
         return cleantext
 
-    def Medline(self, n_results=1):
+    def Medline(self):
 
         query = open(self.transcript_D, 'r').read()
         requestURL = "https://wsearch.nlm.nih.gov/ws/query?db=healthTopics&term=%%22%s%%22"%(query.replace(' ','+')) + \
-                     '&retmax=%s'%str(n_results)
+                     '&retmax=%s'%str(self.n_results)
 
         root = ET.parse(ur.urlopen(requestURL)).getroot()
 
         results = []
-        for i in range(n_results):
+        for i in range(self.n_results):
             d = {}
             d['rank'] = i+1
             article = root.find('list').findall(".//document[@rank='%s']"%str(i))[0]
@@ -37,7 +37,8 @@ class SearchMedline(config_path):
 
         return(results)
 
-# if __name__ == '__main__':
-
+if __name__ == '__main__':
+    medline = SearchMedline(n_results=5)
+    medline.Medline()
     # Medline(["asthma"], n_results=1)
     # _ = Medline("chronic obstructive pulmonary disease",n_results=5)
