@@ -9,12 +9,17 @@ def get_past_diagnosis(patient_id):
 
     return(history)
 
-def get_current_goals(patient_id)
+def get_current_goals():
     config = config_path()
 
     goals_file = json.loads(open(config.goals_dict).read())
-    goals = goals_file[patient_id]
+    goals = goals_file[config.patient_id]
 
-    return (goals)
+    if len(goals) == 0:
+        return(('goals: example: Hba1c level < 7;'))
+    else:
+        return(('goals:' + '\n'.join(goals) + ';'))
+
+print(get_current_goals())
 
 

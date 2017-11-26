@@ -48,18 +48,21 @@ class SearchES(config_path):
 
         n_hits = response.hits.total
 
-        if n_hits == 0:
-            print('resultES, no results')
-        else:
-            for j in range(min(n_hits,self.n_results)):
-                print('resultES, '+ response.hits[j].title + ' | ' + response.hits[j].doi)
-
         logging.info("\n=========================================================================================")
         logging.info("host: %s \t port: %s \t index: %s \t doc_type: %s" % (self.host, self.port,
                                                                             self.index, self.doc_type))
-        logging.info("Nb of hits: %s"%n_hits)
+        logging.info("Nb of hits: %s" % n_hits)
         logging.info("Running time: %0.2f seconds" % (time.time() - self.start_time))
 
-if __name__ == '__main__':
-    SES = SearchES(n_results=5)
-    SES.Search()
+        if n_hits == 0:
+            return('searchES: no results;')
+        else:
+            Ll = []
+            for j in range(min(n_hits,self.n_results)):
+                Ll.append(str(j) + '. ' + response.hits[j].title + ', ' + response.hits[j].doi )
+
+            return('searchES:' + "\n".join(Ll) + ';')
+
+
+
+print(SearchES(n_results=5).Search())

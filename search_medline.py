@@ -31,14 +31,16 @@ class SearchMedline(config_path):
             d['title'] = self.cleanhtml(article.findall(".//content[@name='title']")[0].text)
             d['origin'] = self.cleanhtml(article.findall(".//content[@name='organizationName']")[0].text)
             d['url'] = article.attrib["url"]
-            print("%s. %s, %s, %s"%(d['rank'], d['title'], d['origin'], d['url']))
+            # print("%s. %s, %s, %s"%(d['rank'], d['title'], d['origin'], d['url']))
 
-            results.append(d)
+            results.append("%s. %s, %s, %s"%(d['rank'], d['title'], d['origin'], d['url']))
 
-        return(results)
+        return("searchMed:" + "\n".join(results) + ";")
 
-if __name__ == '__main__':
-    medline = SearchMedline(n_results=5)
-    medline.Medline()
+# if __name__ == '__main__':
+#     medline = SearchMedline(n_results=5)
+#     medline.Medline()
     # Medline(["asthma"], n_results=1)
     # _ = Medline("chronic obstructive pulmonary disease",n_results=5)
+
+print(SearchMedline(n_results=5).Medline())
