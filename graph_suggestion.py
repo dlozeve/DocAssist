@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import numpy as np
 import pandas as pd
 import networkx as nx
-import difflib
 
-from speech2text import diagnosis
+transcripts_dir = 'Transcripts'
+
+with open(os.path.join(transcripts_dir, 'diagnosis_keyphrase.txt'), 'r') as f:
+    current_diagnoses = f.read()
 
 
 def neighbours_suggestions(graph, current_diagnoses, past_diagnoses):
@@ -42,14 +45,6 @@ g = nx.read_gexf("Diagnoses/clusters.gexf")
 
 df_clusters = pd.read_csv("Diagnoses/df_clusters.csv")
 del df_clusters["Unnamed: 0"]
-
-# Look up the current diagnosis in the list of known diagnoses
-current_diagnoses = [s for s in df_clusters["display"]
-                     for d in diagnosis if d in s]
-# If we can't find an exact match, we look at the closest candidates
-if len(current_diagnoses) == 0:
-    current_diagnoses = difflib.get_close_matches(diagnosis,
-                                                  df_clusters["display"], n=2)
 
 # Extract the past diagnoses for our patient
 # TODO extract from JSON
