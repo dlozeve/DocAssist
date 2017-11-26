@@ -16,7 +16,7 @@ class config_path:
         self.transcript_H = os.path.join(self.speech2text_dir, '')
         self.transcript_E = os.path.join(self.speech2text_dir, '')
         self.transcript_T = os.path.join(self.speech2text_dir, '')
-        self.transcript_D = os.path.join(self.speech2text_dir, 'diagnosis_keyphrase.txt')
+        self.transcript_D = os.path.join(self.speech2text_dir, 'diagnosis_keyphrase1.txt')
         self.transcript_P = os.path.join(self.speech2text_dir, '')
         self.transcript_S = os.path.join(self.speech2text_dir, '')
 
@@ -24,6 +24,7 @@ class config_path:
         self.patient_dict = os.path.join(self.patient_records, 'patient_dict.json')
         self.goals_dict = os.path.join(self.patient_records, 'goals_dict.json')
         self.diagnosis_codes = os.path.join(self.patient_records, '')
+        self.patient_id_name = os.path.join(os.path.join(self.patient_records, 'fhir'), "Williamson863_Livia674_80.json")
 
         self.diagnoses = os.path.join(self.wd, 'Diagnoses')
         self.diagnosis_dict = os.path.join(self.diagnoses, 'diagnosis_dict.json')

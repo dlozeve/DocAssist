@@ -20,6 +20,6 @@ def get_current_goals():
     else:
         return(('goals:' + '\n'.join(goals) + ';'))
 
-print(get_current_goals())
+# print(get_current_goals())
 
 

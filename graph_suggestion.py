@@ -45,15 +45,15 @@ def graph_sugg():
         return(res)
 
 
-    g = nx.read_gexf("Diagnoses/clusters.gexf")
+    g = nx.read_gexf(config.diagnosis_network)
 
-    df_clusters = pd.read_csv("Diagnoses/df_clusters.csv")
+    df_clusters = pd.read_csv(config.clusters)
     del df_clusters["Unnamed: 0"]
 
     # Extract the past diagnoses for our patient
     # TODO extract from JSON
-    patient_file = "Patients_records/fhir/"\
-                   "Williamson863_Livia674_80.json"
+    patient_file = config.patient_id_name
+
     past_diagnoses = []
     with open(patient_file, "r") as f:
         parsed_json = json.loads(f.read())
@@ -84,4 +84,4 @@ def graph_sugg():
     # Output our list of suggestions
     return('suggestions:' + '\n'.join(list(df_suggestions["display"].to_dict().values())[0:10]) + ';')
 
-print(graph_sugg())
+# print(graph_sugg())

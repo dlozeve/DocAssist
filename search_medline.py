@@ -43,4 +43,4 @@ class SearchMedline(config_path):
     # Medline(["asthma"], n_results=1)
     # _ = Medline("chronic obstructive pulmonary disease",n_results=5)
 
-print(SearchMedline(n_results=5).Medline())
+# print(SearchMedline(n_results=5).Medline())
