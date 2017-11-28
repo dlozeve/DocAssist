@@ -1,0 +1,6 @@
+print('ewlejfweiufbweiubiowuegouwrgowrg')
+print('wrgjnwrgwrgwrghwrigubwiegrngowurngounrwgon')
+print('wrougnwrogiunwrogunwrogunwrgounwrg')
+print('wroginwroginwrgouwnrgoinwrgwrgoiwrngoinwroginwrg')
+print('wronwroginwroginwrgoiwurngworugbrwogubwrgowribgrwgwrgrwgwrgwrgwrg')
+print('13456786543456787654kejfngwy')

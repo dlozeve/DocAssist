@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href ="bootstrap.min.css">
+</head>
+<body>
+  <div class="form-group">
+    <label for="usr">Diagnosis:</label>
+    <input type="text" class="form-control examination" id="diag">
+  </div>
+  <script>
+  xmlhttp = new XMLHttpRequest();
+  xmlhttp.open("GET","http://localhost:8003", true);
+  xmlhttp.onreadystatechange=function(){
+    if (xmlhttp.readyState==4 && xmlhttp.status==200){
+      string=xmlhttp.responseText;
+      console.log(string)
+      document.getElementById("diag").value = string
+
+  }
+  }
+  xmlhttp.send();
+  </script>
+
+</body>
+</html>
